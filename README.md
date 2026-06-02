@@ -1,6 +1,6 @@
-# 🏥 Hospital Voice Hub — Ouvidoria Hospitalar Inteligente
+# 📊 Ouvidoria Analytics
 
-O **Hospital Voice Hub** é um painel analítico moderno e de alta performance desenvolvido para otimizar a gestão, acompanhamento e análise das manifestações recebidas pela ouvidoria de uma instituição de saúde. A plataforma centraliza dados de reclamações, elogios, sugestões e solicitações, oferecendo visualizações gráficas ricas, categorização e análise de sentimento em tempo real.
+O **Ouvidoria Analytics** é um painel analítico moderno e de alta performance desenvolvido para otimizar a gestão, acompanhamento e análise das manifestações recebidas pela ouvidoria. A plataforma centraliza dados de reclamações, elogios, sugestões e solicitações, oferecendo visualizações gráficas ricas, categorização e análise de sentimento em tempo real.
 
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=for-the-badge&logo=typescript)
@@ -69,10 +69,10 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na versão 18 ou
 ### 1. Clonar o Repositório e Instalar Dependências
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/hospital-voice-hub.git
+git clone https://github.com/KaelBittencourt/Ouvidoria-Analytics.git
 
 # Acessar a pasta
-cd hospital-voice-hub
+cd Ouvidoria-Analytics
 
 # Instalar dependências
 npm install

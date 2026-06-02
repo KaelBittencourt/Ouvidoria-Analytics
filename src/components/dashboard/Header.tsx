@@ -22,7 +22,7 @@ export function Header({ lastUpdate, loading, onRefresh, total, onLogout }: Prop
             <Activity className="h-6 w-6" strokeWidth={2.4} />
           </div>
           <div>
-            <h1 className="text-lg font-semibold leading-tight tracking-tight">Ouvidoria Hospitalar</h1>
+            <h1 className="text-lg font-semibold leading-tight tracking-tight">Ouvidoria Analytics</h1>
             <p className="text-xs text-muted-foreground">
               Painel analítico · {total.toLocaleString("pt-BR")} manifestações
             </p>

@@ -10,7 +10,7 @@ import { toast, Toaster } from "sonner";
 export const Route = createFileRoute("/login")({
   head: () => ({
     meta: [
-      { title: "Acesso Restrito — Ouvidoria Hospitalar" },
+      { title: "Acesso Restrito — Ouvidoria Analytics" },
       { name: "description", content: "Faça login para acessar o painel de manifestações da Ouvidoria." },
     ],
   }),
@@ -81,7 +81,7 @@ function LoginComponent() {
             <Activity className="h-6 w-6" strokeWidth={2.4} />
           </div>
           <div>
-            <h1 className="text-2xl font-bold tracking-tight">Ouvidoria Hospitalar</h1>
+            <h1 className="text-2xl font-bold tracking-tight">Ouvidoria Analytics</h1>
             <p className="text-sm text-muted-foreground mt-1">Painel Analítico e Operacional</p>
           </div>
         </div>

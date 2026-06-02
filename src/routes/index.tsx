@@ -20,8 +20,8 @@ import { toast } from "sonner";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Ouvidoria Hospitalar — Painel Analítico" },
-      { name: "description", content: "Painel analítico e operacional das manifestações da ouvidoria hospitalar, atualizado em tempo real a partir da planilha oficial." },
+      { title: "Ouvidoria Analytics — Painel Analítico" },
+      { name: "description", content: "Painel analítico e operacional das manifestações da ouvidoria, atualizado em tempo real a partir da planilha oficial." },
     ],
   }),
   component: Index,
